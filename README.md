@@ -1,2 +1,2 @@
-An English vocabulary set.
-63373 vocabulary without special characters and space. 
+An English vocabularies set.
+63373 vocabularies without special characters and space. 
